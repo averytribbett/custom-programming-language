@@ -1,3 +1,3 @@
 # Banking Design Specific Language
-## Created by Cody Zeller-Johnson, Kristin Betzler and Avery Tribbett
+## Created by Cody Zellmer-Johnson, Kristin Betzler and Avery Tribbett
 
